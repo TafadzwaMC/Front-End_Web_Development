@@ -13,7 +13,7 @@
 
 ## How to Use
 
-1. Visit the website [MedAdhere](https://your-website-link.com) to explore information about diabetes, adherence strategies, and more.
+1. Visit the website [MedAdhere](https://diabetesmedadhere.netlify.app/) to explore information about diabetes, adherence strategies, and more.
 2. Browse the **Tools & Resources** section to download helpful materials, such as medication trackers.
 3. Use the **Medication Adherence** strategies to create a routine that fits your lifestyle and ensure you never miss a dose.
 4. Check out the **Frequently Asked Questions (FAQ)** for additional tips and advice on managing diabetes.
