@@ -1,2 +1,2 @@
 # Front-End_Web_Development
-A collection of web-development projects
+A collection of front-end web development projects
